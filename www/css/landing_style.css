@@ -1,0 +1,60 @@
+
+
+.container1 {
+	padding: 0px;
+	margin: 0%;
+	text-align: center;
+	margin-bottom: 50px
+  border-radius: 5px;
+}
+
+.inventory-button{
+	padding: 7px 4px;
+	background-color: #00757b;
+	color: #ffffff;
+	border-radius: 5px;
+}
+.client_stats{
+
+}
+.client_stats table{
+	width:95%;
+}
+.client_stats input{
+	margin-right:50px;
+	cursor:pointer;
+}
+
+.new-quote{
+	padding: 7px 4px;
+	background-color: #00757b;
+	color: #ffffff;
+	border-radius: 5px;
+}
+b{
+	text-align: center;
+}
+.search_drop{
+	height: 40px;
+	font-size: 16px;
+	padding-left: 20px;
+	box-sizing:border-box;
+	margin-top:10px;
+}
+
+.inventory-lookup{
+	padding: 7px 4px;
+	background-color: #00757b;
+	color: #ffffff;
+	border-radius: 5px;
+}
+
+.manage-account{
+	padding: 7px 4px;
+	background-color: #00757b;
+	color: #ffffff;
+	margin-left: 0%;
+	white-space: nowrap;
+	border-radius: 5px;
+
+}
