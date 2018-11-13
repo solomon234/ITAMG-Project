@@ -1,1 +1,8 @@
-This Project is an easy to use system that allows a client to add all there assets into an inventory and get a quote for it. 
+# BCS430W
+Group Project for BCS430W
+
+Solomon
+Karl
+Charles
+Chris
+Made change
